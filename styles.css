@@ -1,0 +1,130 @@
+table {
+    border: none;
+    width: 1200px;
+    height: 400px;
+
+}
+
+.colores {
+    background-color: green;
+}
+
+.black {
+    background-color: black;
+}
+
+.teal {
+    background-color: teal;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.navy {
+    background-color: navy;
+}
+
+.lime {
+    background-color: lime;
+}
+
+.white {
+    background-color: white;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.olive {
+    background-color: olive;
+}
+
+.red {
+    background-color: red;
+}
+
+.marroon {
+    background-color: maroon;
+}
+
+.grey {
+    background-color: grey;
+}
+
+.fuchsia {
+    background-color: fuchsia;
+}
+
+.green {
+    background-color: green;
+}
+
+#black {
+    color: black;
+}
+
+#teal {
+    color: teal;
+}
+
+#blue {
+    color: blue;
+}
+
+#navy {
+    color: navy;
+}
+
+#lime {
+    color: lime;
+}
+
+#white {
+    color: white;
+}
+
+#purple {
+    color: purple;
+}
+
+#yellow {
+    color: yellow;
+}
+
+#olive {
+    color: olive;
+}
+
+#red {
+    color: red;
+}
+
+#marroon {
+    color: maroon;
+}
+
+#gray {
+    color: gray;
+}
+
+#fuchsia {
+    color: fuchsia;
+}
+
+#green {
+    color: green;
+}
+
+#aqua {
+    color: aqua;
+}
+
+#silver {
+    color: silver;
+}
